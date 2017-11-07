@@ -2,3 +2,5 @@ pate
 tomates
 mozarella
 basilic
+Gorgonzola
+Sel
